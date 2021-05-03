@@ -1,0 +1,17 @@
+.row1 img{
+    width: 240px;
+    height: 200px;
+}
+.row2 img{
+    width: 240px;
+    height: 200px;
+}
+#Avengers img{
+    width: 200px;
+    height: 200px;
+}
+#mycarousel{
+    width:100%;
+    height: 500px;
+    background-color: aquamarine;
+}
